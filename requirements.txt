@@ -1,0 +1,9 @@
+Django==3.0.7
+djangorestframework==3.10
+# 認証
+djangorestframework-simplejwt==4.6.0
+djoser
+# cors
+django-cors-headers
+# 画像
+Pillow
